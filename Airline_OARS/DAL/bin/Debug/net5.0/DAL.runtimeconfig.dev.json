@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\KEERTSAR\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\KEERTSAR\\.nuget\\packages"
+    ]
+  }
+}
